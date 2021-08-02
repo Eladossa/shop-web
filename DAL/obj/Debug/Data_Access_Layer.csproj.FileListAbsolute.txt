@@ -1,0 +1,2 @@
+C:\Users\Elad Hatan\Desktop\ShopWebApplication1\DAL\obj\Debug\Data_Access_Layer.csproj.AssemblyReference.cache
+C:\Users\Elad Hatan\Desktop\ShopWebApplication1\DAL\obj\Debug\Data_Access_Layer.csproj.CoreCompileInputs.cache

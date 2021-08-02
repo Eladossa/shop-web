@@ -1,0 +1,2 @@
+C:\Users\Elad Hatan\Desktop\ShopWebApplication1\BLL\obj\Debug\Business_Logic_Layer.csproj.AssemblyReference.cache
+C:\Users\Elad Hatan\Desktop\ShopWebApplication1\BLL\obj\Debug\Business_Logic_Layer.csproj.CoreCompileInputs.cache

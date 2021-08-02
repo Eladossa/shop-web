@@ -1,0 +1,4 @@
+C:\Users\Elad Hatan\Desktop\ShopWebApplication1\ShopWebApplication1\obj\Debug\ShopWebApplication1.vbproj.AssemblyReference.cache
+C:\Users\Elad Hatan\Desktop\ShopWebApplication1\ShopWebApplication1\obj\Debug\ShopWebApplication1.Resources.resources
+C:\Users\Elad Hatan\Desktop\ShopWebApplication1\ShopWebApplication1\obj\Debug\ShopWebApplication1.vbproj.GenerateResource.cache
+C:\Users\Elad Hatan\Desktop\ShopWebApplication1\ShopWebApplication1\obj\Debug\ShopWebApplication1.vbproj.CoreCompileInputs.cache
